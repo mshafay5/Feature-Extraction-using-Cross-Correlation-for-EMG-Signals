@@ -12,10 +12,10 @@ for correctly classifying the signals accordingly.
 ## Workflow of the proposed study
 ![Capture](https://user-images.githubusercontent.com/66588586/131224170-d346cc5f-1de5-4f72-bbf4-e936fd892523.PNG)
 
-#
+## To Run
 1: Run FeatExtractor.m to extract features from the dataset.\
 2: Run HealthytrainClassifier.m to classify among the the diseased and healthy.\
-3: Run DiseaseClassifierSVM.m to classify amung the type of disease.
-#
+3: Run DiseaseClassifierSVM.m to classify among the type of disease.
+## Report
 To access the project report, kindly follow the link below.\
 https://drive.google.com/file/d/1Ex3zGlmf6E_Pr42CK1LvdKE3eb4m71if/view?usp=sharing
