@@ -10,6 +10,10 @@ signals. This study will point out previous approaches that has been done for cl
 two neuromuscular disorders and will further include the methodology approached by our team 
 for correctly classifying the signals accordingly.
 #
+##Workflow of the proposed study
+![Capture](https://user-images.githubusercontent.com/66588586/131224170-d346cc5f-1de5-4f72-bbf4-e936fd892523.PNG)
+
+#
 1: Run FeatExtractor.m to extract features from the dataset.\
 2: Run HealthytrainClassifier.m to classify among the the diseased and healthy.\
 3: Run DiseaseClassifierSVM.m to classify amung the type of disease.
