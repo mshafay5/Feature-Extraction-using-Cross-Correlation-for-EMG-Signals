@@ -8,7 +8,7 @@ literatures. Different techniques have been employed for extracting the features
 signals. This study will point out previous approaches that has been done for classifying the 
 two neuromuscular disorders and will further include the methodology approached by our team 
 for correctly classifying the signals accordingly.
-
+#
 1: Run FeatExtractor.m to extract features from the dataset
 2: Run HealthytrainClassifier.m to classify among the the diseased and healthy.
 3: Run DiseaseClassifierSVM.m to classify amung the type of disease.
